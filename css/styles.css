@@ -1,0 +1,25 @@
+img {
+    width: 500px;
+    height: 500px;
+}
+
+.section.header{
+    font-size: 50px;
+    font-weight: 900;
+    font-family: Garamond,Georgia, serif;
+    color: #f08080;
+}
+
+.subsection.header{
+    font-size: 25px;
+    font-weight: 600;
+    font-family: Garamond,Georgia, serif;
+    color: hsl(6, 93%, 71%);
+}
+
+.subsection.ordered.list, .subsection.unordered.list, p {
+    font-size: 18px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: left;
+    background-color: rgba(237, 171, 171,0.3);
+}
