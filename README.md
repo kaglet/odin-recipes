@@ -1,4 +1,4 @@
 # odin-recipes
 
-Project Description:
-Simple html website to showcase food recipes.
+This is a simple website done in html to showcase food recipes, made as part of open source web development course [The Odin Project](https://www.theodinproject.com). It is the fifth and final assignment of the foundations section.
+
